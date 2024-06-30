@@ -32,7 +32,7 @@ You'll need this during development if you want to handle received text messages
 python app.py
 ```
 
-You can use Ngrok to expose your local server to Twilio and handle actual webhook events triggered by text messages. Make sure your Flask server is running, and run `ngrok http 5000`.
+You can use Ngrok to expose your local server to Twilio and handle actual webhook events triggered by text messages. Make sure your Flask server is running, and run `ngrok http 3001`.
 
 ### Deactivate virtual env
 
